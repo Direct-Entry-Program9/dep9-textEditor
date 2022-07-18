@@ -8,4 +8,4 @@ A simple java FX text editor
 v1.0.0
 
 ### License
-Copyright &copy; 2022 DEP9 
+Copyright &copy; 2022 DEP9. All Rights Reserved.
